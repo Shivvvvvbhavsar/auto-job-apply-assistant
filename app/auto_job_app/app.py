@@ -713,4 +713,3 @@ st.markdown("""
     Find opportunities. Organize applications. Move your career forward.
 </div>
 """, unsafe_allow_html=True)
-```
